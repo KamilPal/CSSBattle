@@ -1,0 +1,16 @@
+<div></div>
+<style>
+    body{
+        background-color: #49C85B;
+    }
+  div {
+    position: absolute;
+    border-radius: 75px;
+    width: 111px;
+    height: 111px;
+    background: #085328;
+    margin-left: 136px;
+    margin-top: 86px;
+    box-shadow: 0 0 0 30px #1F7D3B, 0 0 0 60px #2F9947;
+  }
+</style>
